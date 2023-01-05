@@ -9,8 +9,12 @@ The Labels of the dataset are as follows -
 | **Non Hate** | 0 | 2 | 4 |
 | **Hate** | 1 | 3 | 5 |
 
-Please acknowledge the authors, if you use any parts of the dataset for your research or experiments and it is requested to keep the usage fair and trusted. Since the dataset shared, is processed to anonymize all the usernames from various platforms, we hope the anonymity is maintained in any usage if performed. The dataset is meant strictly for research purposes.
+The dataset can be seen sometimes with unicode charachters not readable in Excel and if it happens, we suggest using other tools that support bidirectional unicode characters since there are instances of hindi in the data. Recommened tools include Jupyter Notebook, Notepad etc.
 
+  
+Please acknowledge the authors, if you use any parts of the dataset for your research or experiments and it is requested to keep the usage fair and trusted. Since the dataset shared, is processed to anonymize all the usernames from various platforms, we hope the anonymity is maintained in any usage if performed. The dataset is meant strictly for research purposes.
+  
+Cite :-
 @InProceedings{10.1007/978-981-16-3067-5_8,
 author="Srivastava, Ananya
 and Hasan, Mohammed
