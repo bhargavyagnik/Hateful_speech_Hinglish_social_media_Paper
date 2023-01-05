@@ -1,5 +1,5 @@
 # Hateful speech Hinglish social media Paper
-This repository containts the dataset used by the authors in the paper - "Role of Artificial Intelligence in Detection of Hateful Speech for Hinglish Data on Social Media". It has been collected and labelled by the authors with the approach as stated in the paper. The dataset is collection of various social media platforms namely Instagram, Youtube, Twitter, Reddit etc and has been cleaned manually to remove extremely unimportant data. 
+This repository containts the dataset used by the authors in the paper - **"Role of Artificial Intelligence in Detection of Hateful Speech for Hinglish Data on Social Media"**. It has been collected and labelled by the authors with the approach as stated in the paper. The dataset is collection of various social media platforms namely Instagram, Youtube, Twitter, Reddit etc and has been cleaned manually.
 
 
 The Labels of the dataset are as follows -
